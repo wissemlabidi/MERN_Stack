@@ -1,0 +1,14 @@
+.form {
+    background: linear-gradient(45deg,lightseagreen lightcoral);
+}
+.input {
+    height: 50px;
+    width: 300px;
+    border: 2px solid;
+}
+.button {
+    padding: 5px 10px;
+    height: 50px;
+    width: 200px;
+    background: blue;
+}
